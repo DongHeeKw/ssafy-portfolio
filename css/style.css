@@ -1,0 +1,17 @@
+.carousel-item>img{
+  height : 100vh;
+  /* vh, vw */
+  /* viewport width, height */
+  /* 현재 보고있는 화면 기준 몇%인지? */
+}
+
+nav{
+  z-index : 1;
+  /* width : 100%; */
+  /* bootstrap 속성인 w-100(h-100)을 html에 적용해도 됨 */
+  /* 가운데 정렬이 하고싶으면 w-50(h-50) 적용 */
+}
+
+li{
+  list-style: none;
+}
